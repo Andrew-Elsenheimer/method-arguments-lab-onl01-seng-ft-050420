@@ -9,4 +9,4 @@ def introduction_with_language(name, language)
 end
 
 
-# Test: introduction_with_language
+# Test: introduction_with_language(Dan, Ember.js)
